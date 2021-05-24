@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+index2.html
+assets/src/F-logo.psd
+assets/src/F-logo.svg
